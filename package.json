@@ -17,7 +17,7 @@
   "dependencies": {
     "node-stringprep": "~0.1.0",
     "hubot": "2.2.0",
-    "hubot-hipchat": ">=1.0.9",
+    "hubot-hipchat": "git://github.com/hipchat/hubot-hipchat.git#master",
     "hubot-scripts": ">=2.0.8",
     "optparse": "1.0.3"
   },
